@@ -20,6 +20,7 @@ Takeaways :
    
 */
 import java.util.*;
+
 enum Color{
     WHITE , BLACK;
 }
